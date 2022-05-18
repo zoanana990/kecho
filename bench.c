@@ -13,6 +13,7 @@
 
 #define TARGET_HOST "127.0.0.1"
 #define TARGET_PORT 12345
+
 #define BENCH_COUNT 10
 #define BENCHMARK_RESULT_FILE "bench.txt"
 
